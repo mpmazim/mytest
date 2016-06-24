@@ -1,0 +1,6 @@
+c:\users\azim\documents\visual studio 2015\Projects\event_test\event_test\bin\Debug\event_test.exe.config
+c:\users\azim\documents\visual studio 2015\Projects\event_test\event_test\bin\Debug\event_test.exe
+c:\users\azim\documents\visual studio 2015\Projects\event_test\event_test\bin\Debug\event_test.pdb
+c:\users\azim\documents\visual studio 2015\Projects\event_test\event_test\obj\Debug\event_test.csprojResolveAssemblyReference.cache
+c:\users\azim\documents\visual studio 2015\Projects\event_test\event_test\obj\Debug\event_test.exe
+c:\users\azim\documents\visual studio 2015\Projects\event_test\event_test\obj\Debug\event_test.pdb
